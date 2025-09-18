@@ -1,0 +1,16 @@
+USER DIFFERENTIATED PRICING STRATEGY
+================================================================================
+Base Prices (CNY/kWh): Valley=0.3784, Flat=0.9014, Peak=1.2064
+Total Entities: 2
+================================================================================
+
+Entity 1: High-Frequency
+  Valley: 0.3312 CNY/kWh (Factor: 0.8753)
+  Flat: 0.6834 CNY/kWh (Factor: 0.7582)
+  Peak: 1.5260 CNY/kWh (Factor: 1.2649)
+------------------------------------------------------------
+Entity 2: Low-Frequency
+  Valley: 0.4704 CNY/kWh (Factor: 1.2431)
+  Flat: 1.1391 CNY/kWh (Factor: 1.2637)
+  Peak: 1.3681 CNY/kWh (Factor: 1.1340)
+------------------------------------------------------------

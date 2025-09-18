@@ -1,0 +1,17 @@
+SITE_USER STRATEGY VS BASELINE
+================================================================================
+Optimization Direction: ↓=Lower Better | ↑=Higher Better | ↓↓=More Negative Better
+================================================================================
+
+1. Peak Shaving (↓):
+   Peak-Valley Difference: 434489.10 → 429629.48 kWh (1.1% Improvement)
+
+2. Utilization (↓):
+   Std Dev: 0.1705 → 0.1704 (0.1% Improvement)
+
+3. User Welfare (↓↓):
+   ΔCS: -499730.91 CNY (Improvement: 499730.91 CNY)
+   Improvement Rate: 49973091.01%
+
+4. Revenue (↑):
+   Total Revenue: 5353400 → 6311476 CNY (17.9% Increase)

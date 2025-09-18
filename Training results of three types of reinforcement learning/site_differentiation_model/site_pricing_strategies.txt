@@ -1,0 +1,71 @@
+SITE DIFFERENTIATED PRICING STRATEGY
+================================================================================
+Base Prices (CNY/kWh): Valley=0.3784, Flat=0.9014, Peak=1.2064
+Total Entities: 13
+================================================================================
+
+Entity 1: Tourist Attraction
+  Valley: 0.3159 CNY/kWh (Factor: 0.8347)
+  Flat: 1.0441 CNY/kWh (Factor: 1.1583)
+  Peak: 1.5142 CNY/kWh (Factor: 1.2551)
+------------------------------------------------------------
+Entity 2: Financial Industrial Park
+  Valley: 0.4748 CNY/kWh (Factor: 1.2548)
+  Flat: 1.1560 CNY/kWh (Factor: 1.2825)
+  Peak: 1.4860 CNY/kWh (Factor: 1.2318)
+------------------------------------------------------------
+Entity 3: Technology Park
+  Valley: 0.2704 CNY/kWh (Factor: 0.7147)
+  Flat: 0.8890 CNY/kWh (Factor: 0.9862)
+  Peak: 1.4074 CNY/kWh (Factor: 1.1666)
+------------------------------------------------------------
+Entity 4: Shopping Mall
+  Valley: 0.2675 CNY/kWh (Factor: 0.7068)
+  Flat: 1.1562 CNY/kWh (Factor: 1.2827)
+  Peak: 1.0274 CNY/kWh (Factor: 0.8516)
+------------------------------------------------------------
+Entity 5: Park A
+  Valley: 0.2938 CNY/kWh (Factor: 0.7763)
+  Flat: 1.0066 CNY/kWh (Factor: 1.1167)
+  Peak: 1.1514 CNY/kWh (Factor: 0.9544)
+------------------------------------------------------------
+Entity 6: Industrial Park
+  Valley: 0.3693 CNY/kWh (Factor: 0.9760)
+  Flat: 1.1405 CNY/kWh (Factor: 1.2653)
+  Peak: 1.1641 CNY/kWh (Factor: 0.9649)
+------------------------------------------------------------
+Entity 7: Park B
+  Valley: 0.4309 CNY/kWh (Factor: 1.1388)
+  Flat: 0.7301 CNY/kWh (Factor: 0.8100)
+  Peak: 1.3565 CNY/kWh (Factor: 1.1244)
+------------------------------------------------------------
+Entity 8: Bus Station
+  Valley: 0.3243 CNY/kWh (Factor: 0.8569)
+  Flat: 1.0626 CNY/kWh (Factor: 1.1788)
+  Peak: 1.5534 CNY/kWh (Factor: 1.2876)
+------------------------------------------------------------
+Entity 9: Government Agency
+  Valley: 0.3206 CNY/kWh (Factor: 0.8472)
+  Flat: 0.9606 CNY/kWh (Factor: 1.0657)
+  Peak: 1.5565 CNY/kWh (Factor: 1.2902)
+------------------------------------------------------------
+Entity 10: Expressway Service District B
+  Valley: 0.3774 CNY/kWh (Factor: 0.9974)
+  Flat: 0.9535 CNY/kWh (Factor: 1.0578)
+  Peak: 1.4725 CNY/kWh (Factor: 1.2206)
+------------------------------------------------------------
+Entity 11: Expressway Service District A
+  Valley: 0.3444 CNY/kWh (Factor: 0.9101)
+  Flat: 1.1687 CNY/kWh (Factor: 1.2965)
+  Peak: 1.3278 CNY/kWh (Factor: 1.1006)
+------------------------------------------------------------
+Entity 12: Expressway Service District C
+  Valley: 0.4442 CNY/kWh (Factor: 1.1739)
+  Flat: 0.8554 CNY/kWh (Factor: 0.9490)
+  Peak: 1.5640 CNY/kWh (Factor: 1.2964)
+------------------------------------------------------------
+Entity 13: Wholesale Market
+  Valley: 0.4425 CNY/kWh (Factor: 1.1695)
+  Flat: 1.1234 CNY/kWh (Factor: 1.2463)
+  Peak: 1.5298 CNY/kWh (Factor: 1.2681)
+------------------------------------------------------------
